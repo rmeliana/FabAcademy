@@ -3,7 +3,7 @@
 ![Eu](imgs/Eu.jpeg){: align=center  style="height:240px"}
 
 Hello folks! I'm **Eliana Rodrigues Martins**, an electrical engineer, who is
-exploring the digital fabrication world!
+exploring the digital fabrication world.
 
 ## My background
 
@@ -34,7 +34,7 @@ Finally, in February 2017, I found my true passion, **teach**. I have worked for
 teacher at a technical school, teaching disciplines of Math, Electronic, NR-10,Pneumatic, among
 other. It's incredible how knowledge and sharing information can change the students lives.
 
-![Lousa](imgs/Lousa.jpeg){: align=center  style="height:300px"}
+![Lousa](imgs/Lousa.jpeg){: align=center  style="height:200px"}
 
 
 ## Fab Lab Insper
