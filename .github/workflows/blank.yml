@@ -2,10 +2,7 @@ name: ci
 # Controls when the action will run. 
 on:
   push:
-    branches: [master]
-  pull_request:
-    branches: [master]
-    
+  
  
 # Environment
 env:
