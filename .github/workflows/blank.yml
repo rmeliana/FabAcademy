@@ -1,7 +1,12 @@
 name: ci
+# Controls when the action will run. 
 on:
-  push
-  
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+    
+ 
 # Environment
 env:
   CI: true
@@ -17,22 +22,26 @@ jobs:
     steps:
 
       # Checkout source form GitHub
-      - uses: actions/checkout@v2
+      - name: Checkout Master
+        uses: actions/checkout@v2
 
       # Install Python runtime and dependencies
-      - uses: actions/setup-python@v1
+      - name: Set up Python        
+        uses: actions/setup-python@v1
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
-      # pip
-      - run: |
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
+          pip install mkdocs-git-revision-date-plugin
                   
       # Set configuration for repository and deploy documentation
       - env:
           GH_TOKEN: ${{ secrets.mkdocs }}
           GH_NAME: ci
-          GH_EMAIL: luisgaijin@gmail.com
+          GH_EMAIL: rm_eliana@yahoo.com.br
         run: |
           REMOTE="https://${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}"
           git config --global user.name "${GH_NAME}"
