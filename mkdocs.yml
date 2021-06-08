@@ -1,8 +1,72 @@
 site_name: Eliana RM - Fab Academy 2021
+
+repo_name: 'rmeliana/FabAcademy'
+repo_url: 'https://github.com/rmeliana/FabAcademy'
+site_description: 'My project documentation following Fab Academy instructions'
+site_author: 'ElianaRM'
 site_url: 'https://rmeliana.github.io/FabAcademy/'
+copyright: 'Creative Commons Attribution Non Commercial'
+
+
+theme:
+    name: material
+    features:
+        - navigation.tabs
+        - navigation.sections
+        - navigation.expand
+        - navigation.top
+        - toc.integrate
+        - header.autohide
+    
+    font:
+        text: Roboto
+        code: Roboto Mono
+    
+    palette:
+    #light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: teal
+          accent: white
+          toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to dark mode
+        
+        
+    #dark mode  
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: red
+          accent: indigo
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
+        
+
+    
+# extras
+extra_css:
+    - stylesheets/extra.css      
 
 nav:
     - Home: index.md
     - About: about.md
-
-theme: readthedocs
+    - Assignments: assignments.md
+    
+    
+    
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - toc:
+        permalink: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.highlight
+        
+plugins:
+    - git-revision-date
+    - search

@@ -1,17 +1,18 @@
-# MkLorum
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi everyone! I'm Eliana :slight_smile: and this is my Fab Academy site.
+Here you can find details about my project documentation, such as:
 
-## Commands
+* my weekly assignments
+* the inspiring ideas
+* the development of my final project
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+To know a little [about me](https://rmeliana.github.io/FabAcademy/about/) go ahead and explore this site.
 
-## Project layout
+## Fab Academy
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The [Fab Academy](https://fabacademy.org/) is a fast paced, hands-on learning experience,
+where students learn rapid-prototyping by planning and executing a new project each week,
+resulting in a personal portfolio of technical accomplishments. 
+
+![FabAcademy_logo](imgs/logo_fab_academy.jpg){: align=center  style="height:75px"}
