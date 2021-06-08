@@ -68,4 +68,5 @@ markdown_extensions:
     - pymdownx.highlight
         
 plugins:
+    - git-revision-date
     - search
