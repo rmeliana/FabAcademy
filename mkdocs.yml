@@ -1,5 +1,5 @@
 site_name: Eliana RM - Fab Academy 2021
-site_url: ''
+site_url: 'https://rmeliana.github.io/FabAcademy/'
 
 nav:
     - Home: index.md
