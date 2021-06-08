@@ -1,0 +1,8 @@
+site_name: Eliana RM - Fab Academy 2021
+site_url: ''
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs
