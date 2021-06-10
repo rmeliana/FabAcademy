@@ -10,7 +10,16 @@ of them, but sometimes I don't have enough time, specially when I'm travelling o
 Majority of my plants is rose bushes which need many hours of daylight according to this [article](https://homeguides.sfgate.com/roses-need-full-sun-71200.html).
 Therefore, I pass my days moving them to sunny places in my yard.
 
-![rose bushes](imgs/rose bushes.jpeg){: align=center  style="height:240px"}
+![rose bushes](imgs/rose bushes.jpeg){: align=center style="height:240px"}
+
+In my research, I discovered some references to embase my project. The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-can-take-care-of-your-plants-2018-7),
+a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering.
+
+![Hexa](imgs/Hexa.jpg){: align=center style="height:240px"}
+
+<video width="320" height="240" controls>
+  <source src="hexa walk.mp4" type="video/mp4">
+</video>
 
 
 
