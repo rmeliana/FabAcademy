@@ -26,7 +26,8 @@ a walking succulent plant robot. It can move the plant in and out of shade and s
 </video> 
 
 # 2. Project Management
-ththt
+
+##Assignment
 
 # 3. Computer Aided Design
 thrhhrjujk
