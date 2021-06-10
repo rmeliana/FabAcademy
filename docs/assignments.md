@@ -17,7 +17,7 @@ a walking succulent plant robot. It can move the plant in and out of shade and s
 
 ![Hexa](imgs/Hexa.jpg){: align=center style="height:240px"}
 
-[![hexa walk]({image-url})]({https://thumbs.gfycat.com/DeadlyEmptyBedlingtonterrier-mobile.mp4} "Link Title")
+[![Hexa Walk](https://github.com/rmeliana/FabAcademy/blob/master/docs/imgs/Hexa%20walk.png)](https://thumbs.gfycat.com/DeadlyEmptyBedlingtonterrier-mobile.mp4 "Hexa Walk")
 
 
 
