@@ -1,6 +1,6 @@
-# 1. Principles and Practices
+## 1. Principles and Practices
 
-##Assignment
+###Assignment
 
 * plan and sketch a potential final project
 
