@@ -17,7 +17,7 @@ a walking succulent plant robot. It can move the plant in and out of shade and s
 
 ![Hexa](imgs/Hexa.jpg){: align=center style="height:240px"}
 
-[![Hexa Walk](https://res.cloudinary.com/marcomontalbano/image/upload/v1623358585/video_to_markdown/images/video--9d7db3cb3bb7780b18a7d77e6e11916b-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://thumbs.gfycat.com/DeadlyEmptyBedlingtonterrier-mobile.mp4 "Hexa Walk")
+[![Hexa Walk](https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4)
 
 
 # 2. Project Management
