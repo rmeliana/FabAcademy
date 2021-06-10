@@ -18,8 +18,8 @@ a walking succulent plant robot. It can move the plant in and out of shade and s
 ![Hexa](imgs/Hexa.jpg){: align=center style="height:240px"}
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" https://github.com/rmeliana/FabAcademy/blob/master/docs/imgs/Hexa%20walk.png="Hexa walk.png">
-    <source https://github.com/rmeliana/FabAcademy/blob/master/docs/imgs/hexa%20walk.mp4="hexa walk.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true" poster="imgs/Hexa walk.png">
+    <source src="imgs/hexa walk.mp4" type="video/mp4">
   </video>
 </figure>
 
