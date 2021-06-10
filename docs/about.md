@@ -34,7 +34,7 @@ Finally, in February 2017, I found my true passion, **teach**. I have worked for
 school, teaching disciplines of Math, Electronic, NR-10,Pneumatic, among other. It's incredible how knowledge and
 sharing information can change the students lives.
 
-![Lousa](imgs/Lousa.jpeg){: align=center  style="height:200px"}
+![Lousa](imgs/Lousa.jpeg){: align=center  style="height:300px"}
 
 
 ### Fab Lab Insper
@@ -50,3 +50,4 @@ low cost materials. So, I teach them how to operate the machines and tools, and 
 the goals. 
 There is a day, called Open Day, when the team receive people from everywhere who want to develop and share ideas.
 On this day, the use of machines and environment is free for the community.
+![tour](imgs/tour.jpeg){: align=center  style="height:300px"}
