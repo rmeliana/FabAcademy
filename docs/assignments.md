@@ -18,16 +18,17 @@ a walking succulent plant robot. It can move the plant in and out of shade and s
 ![Hexa](imgs/Hexa.jpg){: align=left style="height:200px"}	
 <video controls height="200">
 
-    <source src="https://github.com/rmeliana/FabAcademy/blob/master/docs/imgs/hexa%20walk.mp4>
+    <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
+            type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 </video> 
 
 # 2. Project Management
-
+ththt
 
 # 3. Computer Aided Design
-
+thrhhrjujk
 # 4. Computer Controlled Cutting
 # 5. Electronics Production
 # 6. 3D Scanning and Printing
