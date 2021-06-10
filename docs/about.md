@@ -30,9 +30,9 @@ worked as a designer at refractories civil area, modeling parts in AutoCad and I
 I have gotten two internships: the first at an industry which manufactured agricultural machines and 
 power generators, and the second at an electricity distribution company.
 
-Finally, in February 2017, I found my true passion, **teach**. I have worked for six months as  
-teacher at a technical school, teaching disciplines of Math, Electronic, NR-10,Pneumatic, among
-other. It's incredible how knowledge and sharing information can change the students lives.
+Finally, in February 2017, I found my true passion, **teach**. I have worked for six months as teacher at a technical
+school, teaching disciplines of Math, Electronic, NR-10,Pneumatic, among other. It's incredible how knowledge and
+sharing information can change the students lives.
 
 ![Lousa](imgs/Lousa.jpeg){: align=center  style="height:200px"}
 
