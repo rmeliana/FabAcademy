@@ -30,6 +30,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+          pip install mkdocs-git-revision-date-plugin
+
  
                   
       # Set configuration for repository and deploy documentation
