@@ -7,8 +7,8 @@ exploring the digital fabrication world.
 
 ## My background
 
-Since my adolescence, I have been in the electricity field. I started taking toys and 
-household appliance apart to know how they worked and sometimes I tried to fix them.
+I was born in Sao Paulo, Brazil, and since my adolescence, I have been in the electricity field.
+I started taking toys and household appliance apart to know how they worked and sometimes I tried to fix them.
 I always followed my father on domestic repairs in our house.
 
 I took my first course in the area (**maintenance electrician**) when I was sixteen,
@@ -52,3 +52,4 @@ There is a day, called Open Day, when the team receive people from everywhere wh
 On this day, the use of machines and environment is free for the community.
 
 ![tour](imgs/tour.jpeg){: align=center  style="height:300px"}
+![tour1](imgs/tour1.jpeg){: align=center  style="height:300px"}
