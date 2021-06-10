@@ -52,4 +52,4 @@ There is a day, called Open Day, when the team receive people from everywhere wh
 On this day, the use of machines and environment is free for the community.
 
 ![tour](imgs/tour.jpeg){: align=center  style="height:200px"}
-![tour1](imgs/tour1.jpeg){: align=center  style="height:300px"}
+![tour1](imgs/tour1.jpeg){: align=center  style="height:200px"}
