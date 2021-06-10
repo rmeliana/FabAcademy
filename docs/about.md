@@ -37,7 +37,7 @@ other. It's incredible how knowledge and sharing information can change the stud
 ![Lousa](imgs/Lousa.jpeg){: align=center  style="height:200px"}
 
 
-## Fab Lab Insper
+### Fab Lab Insper
 
 In August of 2017, I joined the technical team of [Fab Lab Insper](https://www.insper.edu.br/fab-lab/)
 as a lab technician.
