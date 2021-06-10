@@ -49,10 +49,10 @@ extra_css:
     - stylesheets/extra.css      
 
 nav:
-    - Home: 
-        index.md
+    - Home: index.md
     - About: about.md
-    - Assignments: assignments.md
+    - Assignments: 
+        - 1.Principles and Pratices: Principles and Pratices.md
     
     
     
