@@ -16,7 +16,6 @@ theme:
         - navigation.expand
         - navigation.top
         - toc.integrate
-        - header.autohide
         - navigation.instant
     
     font:
