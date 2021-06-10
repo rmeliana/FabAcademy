@@ -16,8 +16,7 @@ In my research, I discovered some references to embase my project. The first one
 a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering.
 
 ![Hexa](imgs/Hexa.jpg){: align=center  style="height:300px"}
-
-<video controls width="250">
+<video controls width="300">
 
     <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
             type="video/mp4">
