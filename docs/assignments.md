@@ -7,7 +7,7 @@
 During this week I worked on defining my final project and started to create the documentation.
 The project idea came from the task of water and put my plants under sunlight. I love to take care
 of them, but sometimes I don't have enough time, specially when I'm travelling or so busy with work.
-Majority of my plants is rose bushes which need many hours of daylight according to this [article] (https://homeguides.sfgate.com/roses-need-full-sun-71200.html).
+Majority of my plants is rose bushes which need many hours of daylight according to this [article](https://homeguides.sfgate.com/roses-need-full-sun-71200.html).
 Therefore, I pass my days moving them to sunny places in my yard.
 
 ![rose bushes](imgs/rose bushes.jpeg){: align=center  style="height:240px"}
