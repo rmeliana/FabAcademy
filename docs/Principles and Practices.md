@@ -15,7 +15,7 @@ Therefore, I pass my days moving them to sunny places in my yard.
 In my research, I discovered some references to embase my project. The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-can-take-care-of-your-plants-2018-7),
 a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering.
 
-![Hexa](imgs/Hexa.jpg){: align=left style="height:300px"}	
+![Hexa](imgs/Hexa.jpg){: align=center style="height:300px"}	
 
 # 2. Project Management
 
