@@ -45,9 +45,9 @@ I'm not an expert in drawing, but here's my sketch:
 The **Plant Nanny Robot (PNR)** is a robotic mobile platform that takes care of a plant. 
 
 It moves itself forward or back toward natural light incidence, to keep the rose bush for longer under sunshine.
-It uses metal electrodes conect to the ground and plant stem for Reading its signals. According to [TED](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040) of Greg Gage in 2017,
+It uses metal electrodes conect to the ground and plant stem for Reading its signals. According to [TED of Greg Gage in 2017](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040),
 plants can communicate through electrical signals that can change with an external touch/motion, or also because 
-light as [Elowan]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/) project.
+light as [Elowan project]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/).
 
 Para evitar esbarrar em obstáculos ou até mesmo em pessoas/animais de estimação possui um sensor que para seu movimento se necessário.
 
