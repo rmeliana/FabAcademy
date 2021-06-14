@@ -19,7 +19,7 @@ The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-ca
 sophisticated. 
 
 ![Hexa](imgs/Hexa.jpg){: align=left style="width:250px"} 
-<video controls width="300" align="center">
+<video controls width="450" align="center">
 
     <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
             type="video/mp4">
