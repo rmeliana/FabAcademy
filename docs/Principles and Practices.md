@@ -18,7 +18,7 @@ In my research, I discovered some references to embase my project.
 The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-can-take-care-of-your-plants-2018-7), a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering. However, its design is very 
 sophisticated. 
 
-![Hexa](imgs/Hexa.jpg){: align=left style="width:400px"} 
+![Hexa](imgs/Hexa.jpg){: align=left style="height:400px"} 
 <video controls width="400" align="center">
 
     <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
@@ -28,12 +28,10 @@ sophisticated.
 </video>
 
 
-
-
 The second is [Elowan](https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/), a cybernetic lifeform.
 The project uses the plant signals to guide it toward light. 
 
-<iframe width="350" height="196,88" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
