@@ -12,8 +12,10 @@ Therefore, I pass my days moving them to sunny places in my yard. So, why not to
 
 ![rose bushes](imgs/rose bushes.jpeg){: align=center style="height:240px"}
 
-In my research, I discovered some references to embase my project. The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-can-take-care-of-your-plants-2018-7),
-a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering. However, its design is very 
+##References
+
+In my research, I discovered some references to embase my project.
+The first one is called [Hexa](https://www.businessinsider.com/the-hexa-robot-can-take-care-of-your-plants-2018-7), a walking succulent plant robot. It can move the plant in and out of shade and stomps when it needs watering. However, its design is very 
 sophisticated. 
 
 ![Hexa](imgs/Hexa.jpg){: align=left style="width:250px"} 
@@ -24,6 +26,13 @@ sophisticated.
 
     Sorry, your browser doesn't support embedded videos.
 </video>
+
+The second is [Elowa](https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/), a cybernetic lifeform.
+The project uses the plant signals to guide it toward light. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 # 2. Project Management
