@@ -18,7 +18,7 @@ sophisticated.
 
 ![Hexa](imgs/Hexa.jpg){: align=center style="height:300px"}	
 
-<video controls width="200">
+<video controls width="300" align="center">
 
     <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
             type="video/mp4">
