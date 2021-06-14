@@ -34,6 +34,16 @@ The project uses the plant signals to guide it toward light.
 ![Elowan](imgs/Elowan.jpg){: align=left style="height:300px"}
 <iframe width="534" height="300" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##PNR - Plant Nanny Robot
+
+I'm not an expert in drawing, but here's my sketch:
+
+![PNR](imgs/PNR sketch.jpg){: align=left style="height:300px"}
+
+###Description
+
+
+
 
 
 
