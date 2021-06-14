@@ -31,7 +31,7 @@ sophisticated.
 The second is [Elowan](https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/), a cybernetic lifeform.
 The project uses the plant signals to guide it toward light. 
 
-![Elowan](imgs/Elowan.jpg){: align=left style="height:197px"} <iframe width="350" height="197" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Elowan](imgs/Elowan.jpg){: align=left style="height:250px"} <iframe width="445" height="250" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
