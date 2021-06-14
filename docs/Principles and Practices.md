@@ -38,9 +38,27 @@ The project uses the plant signals to guide it toward light.
 
 I'm not an expert in drawing, but here's my sketch:
 
-![PNR](imgs/PNR sketch.jpeg){: align=left style="height:300px"}
+![PNR](imgs/PNR sketch.jpeg){: align=center style="height:450px"}
 
 ###Description
+
+The **Plant Nanny Robot (PNR)** is a robotic mobile platform that takes care of a plant. 
+
+It moves itself forward or back toward natural light incidence, to keep the rose bush for longer under sunshine.
+It uses metal electrodes conect to the ground and plant stem for Reading its signals. According to [TED](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040) of Greg Gage in 2017,
+plants can communicate through electrical signals that can change with an external touch/motion, or also because 
+light as [Elowan]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/) project.
+
+Para evitar esbarrar em obstáculos ou até mesmo em pessoas/animais de estimação possui um sensor que para seu movimento se necessário.
+
+Além do banho de sol, o PNR cuida da umidade do solo da planta. Através do sensor artesanal implantado no solo que avisa quando é necessário
+a rega (ativando a bomba d’água). Seu mini reservatório conta com um sensor de nível do tipo reed switch para notificar ao proprietário do nível
+abaixo (através de um led) e também para paralisar o sistema de rega até o reabastecimento.
+
+O sistema de fixação do vaso de planta ocorrerá através de molas, parafusos e porcas borboletas.
+
+Pessoas que precisam viajar por um curto período de tempo (duas semanas) ou que não possuem tempo hábil para os cuidados básicos das 
+plantas podem utilizar o PNR, garantindo assim a sobrevivência dos seus amores verdinhos. 
 
 
 
