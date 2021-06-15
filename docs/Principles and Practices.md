@@ -2,7 +2,7 @@
 
 ##Assignment
 
-* plan and sketch a potential final project
+* Plan and sketch a potential final project
 
 During this week I worked on defining my final project and started to create the documentation.
 The project idea came from the task of water and put my plants under sunlight. I love to take care
