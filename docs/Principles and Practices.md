@@ -45,23 +45,15 @@ I'm not an expert in drawing, but here's my sketch:
 The **Plant Nanny Robot (PNR)** is a robotic mobile platform that takes care of a plant. 
 
 It moves itself forward or back toward natural light incidence, to keep the rose bush for longer under sunshine.
-It uses metal electrodes conect to the ground and plant stem for Reading its signals. According to [TED of Greg Gage in 2017](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040),
-plants can communicate through electrical signals that can change with an external touch/motion, or also because 
+It uses metal electrodes connected to the ground and plant stem for Reading its signals. According to [TED of Greg Gage in 2017](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040),
+plants can communicate through electrical signals that can change with an external touch/motion, or also because of 
 light as [Elowan project]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/).
 
-Para evitar esbarrar em obstáculos ou até mesmo em pessoas/animais de estimação possui um sensor que para seu movimento se necessário.
+To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
 
-Além do banho de sol, o PNR cuida da umidade do solo da planta. Através do sensor artesanal implantado no solo que avisa quando é necessário
-a rega (ativando a bomba d’água). Seu mini reservatório conta com um sensor de nível do tipo reed switch para notificar ao proprietário do nível
-abaixo (através de um led) e também para paralisar o sistema de rega até o reabastecimento.
+Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor that warns when watering is needed
+(turning on the water pump). Its mini reservoir has a level sensor of reed switch type that notifies the owner about 
+the low water level (through an LED) and also blocks the watering system until refueling.
 
-O sistema de fixação do vaso de planta ocorrerá através de molas, parafusos e porcas borboletas.
-
-Pessoas que precisam viajar por um curto período de tempo (duas semanas) ou que não possuem tempo hábil para os cuidados básicos das 
-plantas podem utilizar o PNR, garantindo assim a sobrevivência dos seus amores verdinhos. 
-
-
-
-
-
-
+People who need travelling for a short period (two weeks) or that don't have enough time to basic care of their plant, can
+use then PNR, ensuring then the survival of their green loves. 
