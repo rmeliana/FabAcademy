@@ -56,4 +56,4 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 the low water level (through an LED) and also blocks the watering system until refueling.
 
 People who need traveling for a short period (two weeks) or that don't have enough time to basic care of their plant, can
-use then PNR, ensuring the survival of their green loves. 
+use the PNR, ensuring the survival of their green loves. 
