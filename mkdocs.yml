@@ -50,7 +50,9 @@ extra_css:
 
 nav:
     - Home: index.md
-    - About: about.md
+    - About me: 
+        - About: about.md
+        - Fab Academy Student Agreement: Agreement.md
     - Assignments: 
         - 1. Principles and Pratices: 1Principles and Practices.md
         - 2. Project Management: 2Project Management.md
