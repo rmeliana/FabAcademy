@@ -1,13 +1,15 @@
-# About
+# About me
 
 ![Eu](imgs/Eu.jpeg){: align=center  style="height:240px"}
 
 Hello folks! I'm **Eliana Rodrigues Martins**, an electrical engineer, who is
 exploring the digital fabrication world.
+I'm Brazilian born in Sao Paulo, Brazil, and a superfan of Japanese animation.
+
 
 ## My background
 
-I was born in Sao Paulo, Brazil, and since my adolescence, I have been in the electricity field.
+Since my adolescence, I have been in the electricity field.
 I started taking toys and household appliance apart to know how they worked and sometimes I tried to fix them.
 I always followed my father on domestic repairs in our house.
 
@@ -53,3 +55,36 @@ On this day, the use of machines and environment is free for the community.
 
 ![tour](imgs/tour.jpeg){: align=center  style="height:200px"}
 ![tour1](imgs/tour1.jpeg){: align=center  style="height:200px"}
+
+#Fab Academy Student Agreement
+
+The Fab Academy is responsible for:
+
+* Teaching principles and practices of digital fabrication
+* Arranging lectures, recitations, meetings, and events for the class
+* Evaluating and providing feedback on student work
+* Offering clear standards for completing assignments
+* Certifying and archiving student progress
+* Supervising class preparation
+* Reviewing prospective students, instructors, and labs
+* Providing central staff and infrastructure for students, instructors, and labs
+* Fund-raising for costs not covered by student tuition
+* Managing and reporting on the program's finances, results, and impacts
+* Publicizing the program
+* Promoting a respectful environment free of harassment and discrimination
+
+I am a Fab Academy student, responsible for:
+
+* Attending class lectures and participating in reviews
+* Developing and documenting projects assigned to introduce and demonstrate skills
+* Honestly reporting on my work, and appropriately attributing the work of others
+* Working safely
+* Leaving workspaces in the same (or better) condition than I found them
+* Participating in the upkeep of my lab
+* Ensuring that my tuition to cover local and central class costs is covered
+* Following locally applicable health and safety guidance
+* Promoting a respectful environment free of harassment and discrimination
+
+Signed by committing this file in my repository,
+
+Eliana Rodrigues Martins
