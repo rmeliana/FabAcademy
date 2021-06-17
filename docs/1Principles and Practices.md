@@ -55,5 +55,7 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 (turning on the water pump). Its mini reservoir has a level sensor of reed switch type that notifies the owner about 
 the low water level (through an LED) and also blocks the watering system until refueling.
 
+All signals from sensors and commands will be processed by a microcontroller PCB.
+
 People who need traveling for a short period (two weeks) or that don't have enough time to basic care of their plant, can
 use the PNR, ensuring the survival of their green loves. 
