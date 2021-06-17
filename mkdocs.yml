@@ -50,7 +50,7 @@ extra_css:
 
 nav:
     - Home: index.md
-    - About me: 
+    - About: 
         - About: about.md
         - Fab Academy Student Agreement: Agreement.md
     - Assignments: 
