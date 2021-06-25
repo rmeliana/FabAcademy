@@ -58,14 +58,17 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 (turning on the water pump). Its mini reservoir has a level sensor of reed switch type that notifies the owner about
 the low water level (through an LED) and also blocks the watering system until refueling.
 
-!!! sketch "Soil Moisture Sensor"
-![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:450px"}
+!!! exemple "Soil Moisture Sensor"
+    ![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:250px"}
 
-!!! sketch "Minimum Level Sensor"
-![level sensor](imgs/level sensor.jpeg){: align=center style="height:450px"}
+!!! exemple "Minimum Level Sensor"
+    ![level sensor](imgs/level sensor.jpeg){: align=center style="height:250px"}
 
-!!! sketch "Water Pump"
-![water pump](imgs/water pump.jpeg){: align=center style="height:450px"}
+!!! exemple "Commercial sensor"
+        ![Commercial sensor](imgs/commercial sensor.jpg){: align=center style="height:250px"}
+
+!!! exemple "Water Pump"
+    ![water pump](imgs/water pump.jpeg){: align=center style="height:250px"}
 
 All signals from sensors and commands will be processed by a microcontroller PCB.
 
