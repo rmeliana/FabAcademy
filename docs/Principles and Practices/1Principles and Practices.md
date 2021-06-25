@@ -38,7 +38,7 @@ The project uses the plant signals to guide it toward light.
 
 I'm not an expert in drawing, but here's my sketch:
 
-![PNR](imgs/PNR sketch.jpeg){: align=center style="height:450px"}
+![PNR](imgs/PNR sketch.jpeg){: align=center style="height:500px"}
 
 ###Description
 
@@ -49,7 +49,7 @@ It uses metal electrodes connected to the ground and plant stem for reading its 
 plants can communicate through electrical signals that can change with an external touch/motion, or also because of
 light as [Elowan project]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/).
 
-![sun light sensor](imgs/sun light sensor.jpeg){: align=center style="height:350px"}
+![sun light sensor](imgs/sun light sensor.jpeg){: align=center style="height:450px"}
 
 To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
 
