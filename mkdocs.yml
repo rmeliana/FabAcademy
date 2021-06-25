@@ -17,11 +17,11 @@ theme:
         - navigation.top
         - toc.integrate
         - navigation.instant
-    
+
     font:
         text: Roboto
         code: Roboto Mono
-    
+
     palette:
     #light mode
         - media: "(prefers-color-scheme: light)"
@@ -31,9 +31,9 @@ theme:
           toggle:
             icon: material/toggle-switch-off-outline
             name: Switch to dark mode
-        
-        
-    #dark mode  
+
+
+    #dark mode
         - media: "(prefers-color-scheme: dark)"
           scheme: slate
           primary: red
@@ -41,25 +41,25 @@ theme:
           toggle:
             icon: material/toggle-switch
             name: Switch to light mode
-        
 
-    
+
+
 # extras
 extra_css:
-    - stylesheets/extra.css      
+    - stylesheets/extra.css
 
 nav:
     - Home: index.md
-    - About: 
+    - About:
         - About: about.md
         - Fab Academy Student Agreement: Agreement.md
-    - Assignments: 
-        - 1. Principles and Pratices: 1Principles and Practices.md
+    - Assignments:
+        - 1. Principles and Pratices: Principles and Practices/1Principles and Practices.md
         - 2. Project Management: 2Project Management.md
         - 3. Computer Aided Design: 3Computer Aided Design.md
-    
-    
-    
+
+
+
 markdown_extensions:
     - attr_list
     - pymdownx.emoji:
@@ -71,7 +71,7 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.highlight
-        
+
 plugins:
     - git-revision-date
     - search
