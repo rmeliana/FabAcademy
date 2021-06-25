@@ -43,13 +43,15 @@ I'm not an expert in drawing, but here's my sketch:
 ###Description
 
 The **Plant Nanny Robot (PNR)** is a robotic mobile platform that takes care of a plant.
+People who need traveling for a short period (two weeks) or that don't have enough time to basic care of their plant, can use the PNR, ensuring the survival of their green loves.
 
 It moves itself forward or back toward natural light incidence, to keep the rose bush for longer under sunshine.
 It uses metal electrodes connected to the ground and plant stem for reading its signals. According to [TED of Greg Gage in 2017](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate#t-120040),
-plants can communicate through electrical signals that can change with an external touch/motion, or also because of
+plants can communicate through electrical signals that change with an external touch/motion, or also because of
 light as [Elowan project]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/).
 
 !!! sketch "Sunlight Sensor"
+    I took a look on the internet to find some silver electrodes, but apparently, we don't have them in Brazil. So, an option is to test the plant signals with a thin copper wire and Aloe Vera gel to ensure electrical conduction.
     ![sun light sensor](imgs/sun light sensor.jpeg){: align=center style="height:450px"}
 
 To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
@@ -58,8 +60,11 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 (turning on the water pump). Its mini reservoir has a level sensor of reed switch type that notifies the owner about
 the low water level (through an LED) and also blocks the watering system until refueling.
 
-!!! exemple "Soil Moisture Sensor (on the left) and Minimum Level Sensor (on the right)"
+!!! exemple ""
+    To make the soil moisture sensor, I'll use two nails connected with a NPN transistor and LED circuit, as on the sketch below. When the ground is dry, the LED turns on.
     ![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:250px"}
+
+    I'll try to reproduce a reed switch sensor, and put it in a 3D printing or molded part with a magnet.
     ![level sensor](imgs/level sensor.jpeg){: align=center style="height:250px"}
 
 !!! exemple "Water Pump"
@@ -67,5 +72,11 @@ the low water level (through an LED) and also blocks the watering system until r
 
 All signals from sensors and commands will be processed by a microcontroller PCB.
 
-People who need traveling for a short period (two weeks) or that don't have enough time to basic care of their plant, can
-use the PNR, ensuring the survival of their green loves.
+The main components of the project will be:
+
+* Microcontroller
+* Sensors: soil moisture, water level, distance and sunlight incidence
+* DC motors
+* Water Pump
+* Water reservoir
+* Battery
