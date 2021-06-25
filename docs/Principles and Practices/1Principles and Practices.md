@@ -38,7 +38,7 @@ The project uses the plant signals to guide it toward light.
 
 I'm not an expert in drawing, but here's my sketch:
 
-![PNR](imgs/PNR sketch.jpeg){: align=center style="height:500px"}
+![PNR](imgs/PNR_sketch.jpeg){: align=center style="height:500px"}
 
 ###Description
 
