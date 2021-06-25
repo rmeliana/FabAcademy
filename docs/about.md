@@ -4,10 +4,7 @@
 
 Hello folks! I'm **Eliana Rodrigues Martins**, an electrical engineer, who is
 exploring the digital fabrication world.
-I'm Brazilian born in Sao Paulo, Brazil, and a superfan of Japanese animation.
-
-
-
+I'm Brazilian born in Sao Paulo, and a superfan of Japanese animation.
 
 ## My background
 
