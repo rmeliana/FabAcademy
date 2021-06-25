@@ -49,6 +49,7 @@ It uses metal electrodes connected to the ground and plant stem for reading its 
 plants can communicate through electrical signals that can change with an external touch/motion, or also because of
 light as [Elowan project]( https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/).
 
+!!! sketch "SunLight Sensor"
 ![sun light sensor](imgs/sun light sensor.jpeg){: align=center style="height:450px"}
 
 To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
@@ -57,7 +58,14 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 (turning on the water pump). Its mini reservoir has a level sensor of reed switch type that notifies the owner about
 the low water level (through an LED) and also blocks the watering system until refueling.
 
+!!! sketch "Soil Moisture Sensor"
+![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:450px"}
 
+!!! sketch "Minimum Level Sensor"
+![level sensor](imgs/level sensor.jpeg){: align=center style="height:450px"}
+
+!!! sketch "Water Pump"
+![water pump](imgs/water pump.jpeg){: align=center style="height:450px"}
 
 All signals from sensors and commands will be processed by a microcontroller PCB.
 
