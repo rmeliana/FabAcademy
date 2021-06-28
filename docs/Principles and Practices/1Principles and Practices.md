@@ -55,14 +55,12 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 
 To make the soil moisture sensor, I'll use two nails connected with a NPN transistor and LED circuit, as on the sketch below. When the ground is dry, the LED turns on.
 
-!!! exemple ""
-    **Soil Moisture Sensor**
+!!! exemple "Soil Moisture Sensor"
     ![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:250px"}
 
 I'll try to reproduce a reed switch sensor, and put it in a 3D printing or molded part with a magnet.
 
-!!! exemple ""
-    **Level Sensor**
+!!! exemple "Level Sensor"
     ![level sensor](imgs/level sensor.jpeg){: align=center style="height:250px"}
 
 In a little search on [Thinginverse site]([https://www.thingiverse.com/) I realize that is possible to built a water pump with a few parts.
