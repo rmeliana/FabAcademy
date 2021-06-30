@@ -54,9 +54,9 @@ nav:
         - About: about.md
         - Fab Academy Student Agreement: Agreement.md
     - Assignments:
-        - '1. Principles and Pratices': 'Principles and Practices/1Principles and Practices.md'
-        - '2. Project Management': 'Project Management/2Project Management.md'
-        - 3. Computer Aided Design: Computer Aided Design/3Computer Aided Design.md
+        - '1. Principles and Pratices': '1Principles and Practices/1Principles and Practices.md'
+        - '2. Project Management': '2Project Management/2Project Management.md'
+        - 3. Computer Aided Design: 3Computer Aided Design/3Computer Aided Design.md
 
 
 
