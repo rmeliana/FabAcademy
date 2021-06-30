@@ -26,6 +26,10 @@ Steps: **For Windows**
 2. Install [Git](https://git-scm.com/downloads) on Windows and let the Git Bash terminal be started;
 3. In Git Bash terminal, type "py --version" to see if the process worked out.
 
-![GitBash1](imgs/GitBash1.jpg){: align=center style="height:240px"}
+<p align="center">
+<img height="240" src="imgs/GitBash1.jpg">
+</p>
+
+# ![GitBash1](imgs/GitBash1.jpg){: align=center style="height:240px"}
 
 4. For working with Python and Git repositories, I need the package manager of python, PIP. It's already installed with Git. Just to check,type
