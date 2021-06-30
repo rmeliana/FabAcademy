@@ -26,9 +26,9 @@ Steps: **For Windows**
 2. Install [Git](https://git-scm.com/downloads) on Windows and let the Git Bash terminal be started;
 3. In Git Bash terminal, type "py --version" to see if the process worked out.
 
-<p align="center">
+<div align="center">
   <img height="240" src="imgs/GitBash1.jpg">
-</p>
+</div>
 
 ![GitBash1](imgs/GitBash1.jpg){: align=center style="height:240px"}
 
