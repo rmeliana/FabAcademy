@@ -79,6 +79,9 @@ markdown_extensions:
     - pymdownx.highlight
     - admonition #Admonitions are created by !!!type
     - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
     - git-revision-date
