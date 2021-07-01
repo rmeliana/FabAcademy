@@ -10,6 +10,15 @@ copyright: 'Creative Commons Attribution Non Commercial'
 
 theme:
     name: material
+
+    # 404 page
+    static_templates:
+        - 404.html
+
+    # Necessary for search to work properly
+    include_search_page: false
+    search_index_only: true
+
     features:
         - navigation.tabs
         - navigation.sections
@@ -68,6 +77,8 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.highlight
+    - admonition #Admonitions are created by !!!type
+    - pymdownx.details
 
 plugins:
     - git-revision-date
