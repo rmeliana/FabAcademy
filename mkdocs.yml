@@ -61,20 +61,13 @@ nav:
 
 
 markdown_extensions:
-    - markdown.extensions.attr_list
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - attr_list
     - toc:
         permalink: true
     - admonition
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.highlight
-    - pymdownx.magiclink:
-        repo_url_shorthand: true
-        user: squidfunk
-        repo: mkdocs-material
 
 plugins:
     - git-revision-date
