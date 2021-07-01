@@ -24,18 +24,18 @@ Fortunately, in my work team, we were talking about interesting courses on Alura
 
 ### Creating a personal site: **For Windows**
 
-1. Install [Python 3.8.9](https://www.python.org/downloads/);
-2. Install [Git](https://git-scm.com/downloads) on Windows and let the Git Bash terminal be started;
-3. In Git Bash terminal, type "py --version" to see if the process worked out.
+1.Install [Python 3.8.9](https://www.python.org/downloads/);
+2.Install [Git](https://git-scm.com/downloads) on Windows and let the Git Bash terminal be started;
+3.In Git Bash terminal, type "py --version" to see if the process worked out.
 
 <center>
 ![GitBash1](imgs/GitBash1.jpg){: style="height:240px"}
 </center>
 
-4. For downloading libraries from Git repositories, it's necessary the package manager of python, PIP. Type "pip --version" to see if it has already been installed.
+4.For downloading libraries from Git repositories, it's necessary the package manager of python, PIP. Type "pip --version" to see if it has already been installed.
 
-![PIP](imgs/PIP.jpeg){: style="height:240px"}
+![PIP](imgs/PIP.jpg){: style="height:240px"}
 
-5. For starting the website follow [Getting Started](https://www.mkdocs.org/getting-started/) page of MkDocs. It'll create all the basics files of the site on the local computer and give instructions of how to make changes in each page.
-6. For hosting it on GitHub follow the [Allythy tutorial](https://allythy.github.io/como-criar-documentacao-com-mkdocs) from "Deploy para o GitHub" topic until the end. It'll also generated the URL of documentation, similar of mine https://rmeliana.github.io/FabAcademy/.
-7.
+5.For starting the website follow [Getting Started](https://www.mkdocs.org/getting-started/) page of MkDocs. It'll create all the basics files of the site on the local computer and give instructions of how to make changes in each page.
+6.For hosting it on GitHub follow the [Allythy tutorial](https://allythy.github.io/como-criar-documentacao-com-mkdocs) from "Deploy para o GitHub" topic until the end. It'll also generated the URL of documentation, similar of mine https://rmeliana.github.io/FabAcademy/.
+7.Locally, on the computer, changes can be see by the command
