@@ -47,7 +47,7 @@ It uses silver electrodes connected to the ground and plant stem for reading its
 I took a look on the internet to find some silver electrodes, but apparently, we don't have them in Brazil. So, an option is to test the plant signals with a thin copper wire and Aloe Vera gel to ensure electrical conduction.
 
 !!! sketch "Sunlight Sensor"
-    ![sun light sensor](imgs/sun light sensor.jpeg){: align=center style="height:450px"}
+    ![sun light sensor](imgs/sun light sensor.jpeg){: .center style="height:450px"}
 
 To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
 
