@@ -1,6 +1,6 @@
 # About me
 
-![Eu](imgs/Eu.jpeg){: align=center  style="height:240px"}
+![Eu](imgs/Eu.jpeg){: style="height:240px"}
 
 Hello folks! I'm **Eliana Rodrigues Martins**, an electrical engineer, who is
 exploring the digital fabrication world.
