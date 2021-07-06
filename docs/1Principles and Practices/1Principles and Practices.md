@@ -9,7 +9,7 @@ The project idea came from the task of watering and putting my plants under sunl
 Majority of my plants is rose bushes which need many hours of daylight according to this [article](https://homeguides.sfgate.com/roses-need-full-sun-71200.html).
 Therefore, I pass my days moving them to sunny places in my yard. So, why not to build a robot to do it for me? :smirk:
 
-![rose bushes](imgs/rose bushes.jpeg){: align=center style="height:240px"}
+![rose bushes](imgs/rose bushes.jpeg){ .center style="height:240px" }
 
 ##References
 
@@ -34,7 +34,7 @@ The second is [Elowan](https://www.media.mit.edu/projects/elowan-a-plant-robot-h
 
 I'm not an expert in drawing, but here's my project sketch:
 
-![PNR](imgs/PNR_sketch.jpeg){: align=center style="height:500px"}
+![PNR](imgs/PNR_sketch.jpeg){.center style="height:500px"}
 
 ###Description
 
@@ -47,7 +47,7 @@ It uses silver electrodes connected to the ground and plant stem for reading its
 I took a look on the internet to find some silver electrodes, but apparently, we don't have them in Brazil. So, an option is to test the plant signals with a thin copper wire and Aloe Vera gel to ensure electrical conduction.
 
 !!! sketch "Sunlight Sensor"
-    ![sun light sensor](imgs/sun light sensor.jpeg){: .center style="height:450px"}
+    ![sun light sensor](imgs/sun light sensor.jpeg){.center style="height:450px"}
 
 To avoid bumping into obstacles, and even into people or pets, there is an ultrasonic sensor that stops the robot's motions if necessary.
 
@@ -56,17 +56,17 @@ Beyond sunbath, the PNR takes care of soil moisture. Through the handmade sensor
 To make the soil moisture sensor, I'll use two nails connected with a NPN transistor and LED circuit, as on the sketch below. When the ground is dry, the LED turns on.
 
 !!! info "Soil Moisture Sensor"
-    ![soil moisture sensor](imgs/soil moisture sensor.jpeg){: align=center style="height:250px"}
+    ![soil moisture sensor](imgs/soil moisture sensor.jpeg){.center style="height:250px"}
 
 I'll try to reproduce a reed switch sensor, and put it in a 3D printing or molded part with a magnet.
 
 !!! info "Level Sensor"
-    ![level sensor](imgs/level sensor.jpeg){: align=center style="height:250px"}
+    ![level sensor](imgs/level sensor.jpeg){.center style="height:250px"}
 
 In a little search on [Thinginverse site]([https://www.thingiverse.com/) I realize that is possible to built a water pump with a few parts.
 
 !!! info "Water Pump"
-    ![water pump](imgs/water pump.jpeg){: align=center style="height:250px"}
+    ![water pump](imgs/water pump.jpeg){.center style="height:250px"}
 
 All signals from sensors and commands will be processed by a microcontroller PCB.
 
