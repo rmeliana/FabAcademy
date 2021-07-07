@@ -162,28 +162,33 @@ I followed the references of [Material for MkDocs](https://squidfunk.github.io/m
 
 ### Display Videos
 
-=== "Youtube videos"
-    1. Go to the Video page on YouTube and click on the Share Button.
-    2. Choose Embed.
-    3. Copy and Paste the HTML snippet in your markdown.
+!!! info "Videos"
 
-    example:
-    ```
-    <iframe width="534" height="300" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    ```
+    === "Youtube videos"
+        1. Go to the Video page on YouTube and click on the Share Button.
+        2. Choose Embed.
+        3. Copy and Paste the HTML snippet in your markdown.
 
-    Result:
+        example:
+        ```
+        <iframe width="534" height="300" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        ```
 
-    <iframe width="534" height="300" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        Result:
 
-=== "Local videos"
-    Create an issue on the GitHub repository and attach the video. Then copy the address video and paste into the code below. For more details about visit this [site](https://medium.com/@jackywangdeveloper/tips-tricks-how-to-add-a-demo-video-in-your-git-readme-md-bbf8376a4b74).
-    ```
-    <video controls width="400" align="center">
+        <iframe width="534" height="300" src="https://www.youtube.com/embed/rptKlKZc7cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-        <source src="video address"
-                type="video/mp4">
+    === "Local videos"
+        Create an issue on the GitHub repository and attach the video. Then copy the address video and paste into the code below. For more details about visit this [site](https://medium.com/@jackywangdeveloper/tips-tricks-how-to-add-a-demo-video-in-your-git-readme-md-bbf8376a4b74).
+        ```
+        <center>
+        <video controls width="385">
 
-        Sorry, your browser doesn't support embedded videos.
-    </video>
-    ```
+            <source src="https://user-images.githubusercontent.com/80481667/121596606-03fdfb80-ca16-11eb-96ab-62e88dee66aa.mp4"
+                    type="video/mp4">
+
+            Sorry, your browser doesn't support embedded videos.
+
+        </video>
+        </center>
+        ```

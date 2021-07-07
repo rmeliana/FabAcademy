@@ -23,8 +23,8 @@ the machining. Even so, I stood out in my eletronic class and got a vacancy at
 (state and national competition), as electronic assembler and programmer at the modality called
 Manufatura Integrada.
 
-![Soldando](imgs/Soldando.jpeg){ style="height:300px" }
-![Placa_eletrônica](imgs/Placa_eletronica.jpeg){ style="height:300px"}
+![Soldando](imgs/Soldando.jpeg){.left style="height:340px" }
+![Placa_eletrônica](imgs/Placa_eletronica.jpeg){.center style="height:340px"}
 
 In 2010, I began my degree course in **Electrical Engineering**, and at the same time, I
 worked as a designer at refractories civil area, modeling parts in AutoCad and Inventor softwares.
@@ -43,7 +43,7 @@ sharing information can change the students lives.
 In August of 2017, I joined the technical team of [Fab Lab Insper](https://www.insper.edu.br/fab-lab/)
 as a lab technician.
 
-![Fab Lab](imgs/Fab Lab.jpg){ style="height:200px"}
+![Fab Lab](imgs/Fab Lab.jpg){.center style="height:200px"}
 
 Here, I introduce the digital fabrication to professors, students and the community. In classes,
 I help students develop their academic projects using the rapid-prototyping, with open source softwares and
@@ -52,5 +52,5 @@ the goals.
 There is a day, called Open Day, when the team receive people from everywhere who want to develop and share ideas.
 On this day, the use of machines and environment is free for the community.
 
-![tour](imgs/tour.jpeg){ style="height:200px"}
-![tour1](imgs/tour1.jpeg){ style="height:200px"}
+![tour](imgs/tour.jpeg){.left style="height:250px"}
+![tour1](imgs/tour1.jpeg){.center style="height:250px"}
