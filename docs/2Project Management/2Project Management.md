@@ -102,7 +102,7 @@ I've started using [Notepad++](https://notepad-plus-plus.org/downloads/) for cha
 <figcaption><b>Notepad++ Software</b></figcaption>
 </center>
 
-For working with Git and its commands I used the Git Bash, Para trabalhar com o Git e seus comandos eu utilizei o Git Bash, includind through it and the command `mkdocs serve` I could see the changes before push to online repository.
+For working with Git and its commands I used the Git Bash, including through it and the command `mkdocs serve` I could see the changes before push to online repository.
 
 Therefore, I needed to switch between the two software for adding or modifying some info. Reading the documentation of student [Almir Kimura](http://fabacademy.org/2021/labs/insper/students/almir-kimurajunior/assignments/week02/) I discover another software that helps a lot with the process: [Atom](https://atom.io/). With it, I can make adjust in my files, see a preview of Markdown and push updates to GitHub, everything on the same window. Below, the red square is the text editor, the green is the preview and the orange is the Git communication.
 
