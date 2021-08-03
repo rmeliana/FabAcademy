@@ -82,7 +82,7 @@ Here the steps that I did to create my personal site:
           mkdocs-material-extensions>=1.0
         ```
 
-        * Add the command `pip install -r requirements.txt` into `main.yml` (the Action workflow file is in **.github** folder):
+        * Add the command `pip install -r requirements.txt` into `main.yml` (this file is in **.github folder**):
         ```
         - name: Install dependencies
           run: |
