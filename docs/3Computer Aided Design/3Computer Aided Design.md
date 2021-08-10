@@ -132,7 +132,7 @@ There are many parts to my project. Because of this the Fusion browser became ex
 To reduce that I started to design small assemblies as components and after introduce them in the main assembly file. With it is faster to recognize and modify each group. Below I'm showing the single assemblies of Fixed Caster and Distance Sensor.
 
 <center>
-![](imgs/Fixed caster.jpg){ style="height:300px"}  &nbsp;  ![](imgs/Distance Sensor.jpg){style="height:300px"}
+![](imgs/Fixed caster.jpg){ style="height:300px"} ![](imgs/Distance Sensor.jpg){style="height:300px"}
 </center>
 
 ### 3D Model
@@ -142,3 +142,13 @@ The 3D model of my final project:
 
 
 You can download it below:
+
+
+
+
+<style>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+</style>
