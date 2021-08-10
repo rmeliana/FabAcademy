@@ -70,8 +70,8 @@ With my sketch on hand, I started to design the main part of my project, the vas
   <center>
 
   | **3D Model**  | **Original Vase** |
-  | :-----------: | :-----------: |
-  | <div class="sketchfab-embed-wrapper"> <iframe title="Plant Vase" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="350" height="350" src="https://sketchfab.com/models/984c645ae9554f96a5047e8ea782d060/embed?ui_theme=dark"> </iframe> </div> | ![](imgs/Original vase.jpeg){style="height:350px"}  |
+  | :-----------: | :-----------:     |
+  | <div class="sketchfab-embed-wrapper"> <iframe title="Plant Vase" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="250" height="350" src="https://sketchfab.com/models/984c645ae9554f96a5047e8ea782d060/embed?ui_theme=dark"> </iframe> </div> | ![](imgs/Original vase.jpeg){style="height:350px"}  |
 
   </center>
 
@@ -82,13 +82,9 @@ With my sketch on hand, I started to design the main part of my project, the vas
 <figcaption><b>The sketch of plate</b></figcaption>
 </center>
 
-<center>
-
 | The command Revolve |The result |
 | :-----------------:  | :----------: |
-| ![](imgs/Revolve.jpg){ style="height:350px"}  | ![](imgs/Rrevolve.jpg){ style="height:350px"} |
-
-</center>
+| ![](imgs/Revolve.jpg){ style="height:400px"}  | ![](imgs/Rrevolve.jpg){ style="height:400px"} |
 
 #### McMaster-Carr Component
 
@@ -99,9 +95,9 @@ With my sketch on hand, I started to design the main part of my project, the vas
 <figcaption><b>McMaster-Carr Component</b></figcaption>
 </center>
 
-| Wing Nuts available |The ones I pulled |
+| Wing Nuts available | The ones I pulled |
 | :-----------------:  | :----------: |
-| ![](imgs/nuts.jpg){ style="height:350px"}  | ![](imgs/ssn.jpg){style="height:300px"} |
+| ![](imgs/nuts.jpg){ style="height:350px"}  | ![](imgs/ssn.jpg){style="height:350px"} |
 
 !!! tip "Another free 3D model library is the [GrabCAD](https://grabcad.com/)"
     It's an online community where people share their projects. I accessed it a couple of times. The first, I was looking for a example of water pump.
@@ -115,3 +111,44 @@ With my sketch on hand, I started to design the main part of my project, the vas
 In Fusion, it's possible to atributte characteristics of materials for the parts. Press the letter `A` on the board, we can active the command **Appearance**. There're many types of materials, as metal, plastic, wood, and even concrete. Here, I aplied the concrete material in the part called Plate.
 
 ![](imgs/Appearance.jpg){.center style="height:350px"}
+
+#### Tutorials
+
+Some bodies I didn't have idea how to model them, so I searched online tutorials. In this example below, I followed step by step to build a wheel.
+
+| Tutorial  | My model  |
+| :------:  | :------:  |
+|<iframe width="560" height="315" src="https://www.youtube.com/embed/2-MjfWE8mmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | <div class="sketchfab-embed-wrapper"> <iframe title="Wheel V10" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="350" height="350" src="https://sketchfab.com/models/72c2987fc21c47aaa1e0fcd65a22e4b6/embed?autostart=1&ui_theme=dark"> </iframe> </div> |
+
+#### Organization
+
+There are many parts to my project. Because of this the Fusion browser became extensive, and I had a hard time recognizing which part I was modifying.
+
+<center>
+![](imgs/Browser.jpg){style="height:400px"}
+<figcaption><b>Browser of Autodesk Fusion</b></figcaption>
+</center>
+
+To reduce that I started to design small assemblies as components and after introduce them in the main assembly file. With it is faster to recognize and modify each group. Below I'm showing the single assemblies of Fixed Caster and Distance Sensor.
+
+<center>
+![](imgs/Fixed caster.jpg){ style="height:300px"}  &nbsp;  ![](imgs/Distance Sensor.jpg){style="height:300px"}
+</center>
+
+### 3D Model
+
+The 3D model of my final project:
+
+
+
+You can download it below:
+
+
+
+
+<style>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+</style>
