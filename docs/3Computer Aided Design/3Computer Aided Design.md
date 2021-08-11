@@ -142,3 +142,13 @@ The 3D model of my final project:
 
 
 You can download it below:
+
+
+
+
+<style>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+</style>
