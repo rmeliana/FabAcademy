@@ -12,6 +12,10 @@ And finally what is Markdown? :eyes:
 I had a difficult time understanding the purpose of each one (Git, GitHub, MkDocs and Markdown) and how to use them together to create a site.
 Fortunately, in my work team, we were talking about interesting courses on [Alura platform](https://www.alura.com.br/) that we could take to improve our skills, and Git/GitHub course was one of them. I didn't conclude it, but it gave me a good knowledge about how Git and GitHub run.
 
+My second move was searching examples of Fab Academy websites and the [Cheng Pan's](http://fabacademy.org/2020/labs/oshanghai/students/pan-cheng/) documentation give me a clear ideia about the structure.
+
+Beyond it, my coworker **Luís Henrique Fonseca** has already built a website called [Robozito](https://luishfb.github.io/Doc_Robozito/) using MarkDown, MkDocs, Git and GitHub, so it helped me a lot.
+
 ## Research
 
 * [**Git**](https://blog.betrybe.com/tecnologia/git-e-github/) is an open-source version control system, in other words, free of charge. It's used for creating a history of changes in the source code of software's development projects. It was designed by Linus Torvalds, the creator of the Linux operating system.
