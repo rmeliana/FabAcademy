@@ -1,31 +1,38 @@
 # 4. Computer Controlled Cutting
 
-# 5. Electronics Production
+## Assignment
 
-# 6. 3D Scanning and Printing
+* Group assignment:
 
-# 7. Electronics Design
+    * characterize your lasercutter's focus, power, speed, rate, kerf, and joint clearance;
+    * document your work (individually or in group).
 
-# 8. Computer Controlled Machining
 
-# 9. Embedded Programming
+*   Individual assignments
 
-# 10. Mechanical Design, Machine Design
+    * Design, lasercut, and document a parametric press-fit construction kit, which can be assembled in multiple ways. Account for the lasercutter kerf;
+    * cut something on the vinylcutter.
 
-# 11. Input Devices
+## Group assignment
 
-# 12. Moulding and Casting
+### Material
+For the tests, we are using the MDF (Medium-density fibreboard) with a thickness of 3mm.
 
-# 13. Output Devices
+### Focus
 
-# 14. Embedded Networking and Communications
 
-# 15. Interface and Application Programming
+### Sofware
 
-# 16. Wildcard Week
+### Setting test (power, speed, rate)
 
-# 17. Applications and Implications
+### Kerf Test
 
-# 18. Invention, Intellectual Property and Business Models
+### Joint clearance test
 
-# 19. Project Development
+### Kerf bend test
+
+## Individal assignment
+
+### Parametric press-fit construction kit
+
+### Laser cutting machine parameters

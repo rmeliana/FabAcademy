@@ -37,7 +37,7 @@ How to raster an image:
     ![](imgs/Raster command.jpg){.center style="height:400px"}
     &nbsp;  
 
-3.  There're many ways to rasterize the image. I think the best way is choosing the option **Colors**, and type how many of them (im my case three). As a result, the preview is similar to the real image.  
+3.  There're many ways to rasterize the image. I think the best way is choosing the option **Colors**, and type how many of them (im my case two). As a result, the preview is similar to the real image.  
 
     ![](imgs/rwindow.jpg){.center style="height:400px"}
     &nbsp;
@@ -64,7 +64,7 @@ How to raster an image:
 
 </center>
 
-Here you can download [my Inkscape file](3downloads/Midoriya.svg) (.svg).
+Here you can download [my Inkscape file](3downloads/Midoriya.7z) (.svg).
 
 ### Gimp
 Gimp was used to edit all images of this website. This software allows you modify images: cut, remove background, add or highlight informative itens and more.
@@ -85,7 +85,6 @@ Here a step by step how to remove a background of a photo:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yG99oImbDwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </center>
 
-####
 ## 3D software
 In my professional life, I have already worked with some 3D software to model technical parts. Such as [AutoCAD](https://www.autodesk.com.br/products/autocad/free-trial), [Inventor](https://www.autodesk.com.br/products/inventor/overview) and [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360), all products of Autodesk. In the last year, I discovered a new one, called [Tinkercad](https://www.tinkercad.com/) for simple designs. I used it to make a tutorial for exchange students of [Insper](https://www.insper.edu.br/). So, the information below are parts of it.
 
