@@ -95,7 +95,7 @@ Here the steps that I did to create my personal site:
             pip install -r requirements.txt
         ```    
 
-## Advices
+## Advice
 
 ### Mardown editor and Git IDE
 
