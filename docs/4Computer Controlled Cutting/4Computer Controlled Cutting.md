@@ -44,7 +44,7 @@ You can download the setting test file [here](4downloads/Setting_test.dxf).
 
 |The results after cutting and engraving in 3mm MDF|
 |:------------------------------------------------:|
-|![](imgs/setting_test_5.jpg){.center}|
+|       ![](imgs/setting_test_5.jpg){.center}      |
 
 ### Kerf Test
 In this file were drawn some 15 mm diameter circles. Each color was set up with a different power (%). And the first row was cut with a speed of 5 mm/s and the second 15 mm/s.
@@ -75,11 +75,83 @@ The gap which had the best fit was 2.75mm (kerf around 0,25mm).
 
 ![](imgs/joint_clearance_5.jpg){.center style="height:400px"}
 
-## Individal assignment
+## Individual assignment
 
 ### Parametric press-fit construction kit
 
 ### Laser cutting machine parameters
+
+### Vinyl Cutter
+To test the vinyl cutter, I used the vector file of [Midoryia](https://rmeliana.github.io/FabAcademy/3Computer%20Aided%20Design/3Computer%20Aided%20Design/#inkscape) which was made at the CAD assignment with Inkscape. I decided to use heat transfer vinyl to stamp my lab coat (one more print :joy:).
+
+![](imgs/lab coat.jpeg){.center style="height:400px"}
+
+The heat vinyl has a plastic protection that makes easier to transfer the print for clothing. When the sticker is printed, the plastic film has to be facing upwards. Therefore, the cut must be made by the side without protection.
+
+![](imgs/HTV.jpg){.center style="height:300px"}
+
+Using the Inkscape, I let just the vectorized image in the screen and after mirrored it.
+
+![](imgs/mirrored.jpg){.center style="height:380px"}
+
+I just wanted to cut the character without the rectangle around it. For that, I selected the vectorized image and after actived the command "Separar". Seeing the pictures below, we can see that vectors are separated and I deleted the rectangle.
+
+![](imgs/Separar.jpg){.center style="height:340px"}
+
+![](imgs/Separated.jpg){.center style="height:380px"}
+
+![](imgs/t.jpg){.center style="height:450px"}
+
+I resized the picture for a height of 100 mm.
+
+#### Cutting the heat vinyl
+The vinyl cutter that we have at the lab is the Roland GX-24 (CAMM-1 SERVO). I placed the piece of material in the machine, set the parameters up and started the cut.
+
+![](imgs/vinyl cutter.jpeg){.center style="height:340px"}
+
+![](imgs/parameters.jpeg){.center style="height:380px"}
+
+It's time to take off the pieces I don't need. And start using the tweezer for the little ones.
+
+<center>
+![](imgs/takeoff1.jpeg){style="height:340px"} &nbsp;
+![](imgs/takeoff2.jpeg){style="height:340px"}
+</center>
+
+At that point, I realized that these little pieces didn't cut right (I failed! :disappointed: ). So, I changed the force to 130gf and cut it again. Now it worked!!!
+
+<center>
+![](imgs/takeoff3.jpeg){style="height:340px"} &nbsp;
+![](imgs/takeoff4.jpeg){style="height:340px"}
+</center>
+
+#### Priting the heat vinyl
+
+I positioned my lab coat into the thermal press machine. I closed it and set the temperature to 180°C (it's important to let the clothing there be heated with the increasing temperature).
+
+<center>
+![](imgs/TP1.jpeg){style="height:440px"} &nbsp;
+![](imgs/TP2.jpeg){style="height:440px"}
+</center>
+
+Then, when it reached 180°C, I placed the Midorya print, closed it again and set the time to 20 seconds.
+
+<center>
+![](imgs/TP3.jpeg){style="height:440px"} &nbsp;
+![](imgs/TP4.jpeg){style="height:440px"}
+</center>
+
+I was so happy with the result!!!!
+
+<center>
+![](imgs/TP5.jpeg){style="height:440px"} &nbsp;
+![](imgs/TP6.jpeg){style="height:440px"} &nbsp;
+![](imgs/TP7.jpeg){style="height:440px"}
+</center>
+
+
+
+
 
 <style>
 td, th {
