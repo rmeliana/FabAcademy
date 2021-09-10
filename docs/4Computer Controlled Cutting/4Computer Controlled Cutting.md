@@ -86,27 +86,38 @@ First attempt, I tried on my own to design the parts of it (triangles and connec
 
 Second attempt, there're many online calculators dome's structure such as: [Simply differently](https://simplydifferently.org/Geodesic_Dome_Notes?page=3), [Geo Dome](https://geo-dome.co.uk/3v_tool.asp) and [Domerama](http://www.domerama.com/calculators/3v-geodesic-dome-calculator/). I couldn't work with them, because it's not clear the dimensions of each triangle and didn't have information about simple connectors (just bolts or dome hubs). So, I gave up of them.
 
-Third attempt, I found a Fusion [tutorial](https://www.youtube.com/watch?v=CPJ9Y2GYTnc) for modeling the dome. I made some changes, like resize each part and create connectors to each layer. Here, I used the Change Parameters (based on MDF thickness and laser cutter kerf) for ensure that parts would fit together. The kerf was 0,25mm according to the test in session [Kerf Test](https://rmeliana.github.io/FabAcademy/4Computer%20Controlled%20Cutting/4Computer%20Controlled%20Cutting/#kerf-test), and using a vernier caliper I measured the MDF thickness. Subtracting them, I had the right dimension to the joints.
+Third attempt, I found a Fusion [tutorial](https://www.youtube.com/watch?v=CPJ9Y2GYTnc) for modeling the dome. I made some changes, like resize each part and create connectors to each layer. Here, I used the Change Parameters (based on MDF thickness and laser cutter kerf) for ensure that parts would fit together. The kerf was 0,25mm according to the test in session [Kerf Test](https://rmeliana.github.io/FabAcademy/4Computer%20Controlled%20Cutting/4Computer%20Controlled%20Cutting/#kerf-test), and using a vernier caliper I measured the MDF thickness (3,1mm). Subtracting them, I had the right dimension to the joints.
 
 ![](imgs/Changed_parameters.jpg){.center style="height:400px"}
 
 ![](imgs/Attempt3.jpg){.center style="height:400px"}
 
 
-#### Assembling
+#### Assembly
+
+<center>
 
 |                 How to assemble the parts           |
 |:---------------------------------------------------:|
 |![](imgs/Assembly1.jpg){.center style="height:400px"}|
 |![](imgs/Assembly2.jpg){.center style="height:400px"}|
 |![](imgs/Assembly3.jpg){.center style="height:400px"}|
+|![](imgs/Assembly4.jpg){.center style="height:400px"}|
 
-#### Laser cutting machine parameters
+</center>
 
-#### Download Files
+I started just cutting the four first parts (T1, T2, A and B) and assembled layer 1.
 
-* [3D Model in Fusion](4downloads/Dome v18.f3d)
-* [DXF files](4downloads/Parts.7z) and [RDWors file](4downloads/Cortes.rld): MDF thickness of 3,0 mm and kerf of 0,25 mm
+![](imgs/L1.jpeg){.center style="height:350px"} &nbsp;
+![](imgs/L1_2.jpeg){.center style="height:350px"} &nbsp;
+![](imgs/L1_3.jpeg){.center style="height:350px"}
+
+#### Final Result
+
+#### Downloadable Files
+
+* [3D Model in Fusion](4downloads/Dome v24.f3d)
+* [DXF files](4downloads/Parts.7z) and [RDWors file](4downloads/Cortes.rld): MDF thickness of 3,1 mm and kerf of 0,25 mm
 
 
 ### Vinyl Cutter
@@ -154,7 +165,7 @@ At that point, I realized that these little pieces didn't cut right (I failed! :
 ![](imgs/takeoff4.jpeg){style="height:340px"}
 </center>
 
-#### Priting the heat vinyl
+#### Printing the heat vinyl
 
 I positioned my lab coat into the thermal press machine. I closed it and set the temperature to 180°C (it's important to let the clothing there being heated with the increasing temperature).
 
@@ -163,7 +174,7 @@ I positioned my lab coat into the thermal press machine. I closed it and set the
 ![](imgs/TP2.jpeg){style="height:440px"}
 </center>
 
-Then, when it reached 180°C, I placed the Midorya print, closed it again and set the time to 20 seconds.
+Then, when it reached 180°C, I placed the Midoryia print, closed it again and set the time to 20 seconds.
 
 <center>
 ![](imgs/TP3.jpeg){style="height:440px"} &nbsp;
