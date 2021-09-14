@@ -92,6 +92,11 @@ Third attempt, I found a Fusion [tutorial](https://www.youtube.com/watch?v=CPJ9Y
 
 ![](imgs/Attempt3.jpg){.center style="height:400px"}
 
+<center>
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Dome V24" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="540" height="480" src="https://sketchfab.com/models/44f7ed481c0943349dd8f2b988a61f48/embed?autostart=1&ui_theme=dark"> </iframe> </div>
+
+</center>
 
 #### Assembly
 
@@ -99,10 +104,10 @@ Third attempt, I found a Fusion [tutorial](https://www.youtube.com/watch?v=CPJ9Y
 
 |                 How to assemble the parts           |
 |:---------------------------------------------------:|
-|![](imgs/Assembly1.jpg){.center style="height:400px"}|
-|![](imgs/Assembly2.jpg){.center style="height:400px"}|
-|![](imgs/Assembly3.jpg){.center style="height:400px"}|
-|![](imgs/Assembly4.jpg){.center style="height:400px"}|
+|   ![](imgs/Assembly1.jpg){style="height:500px"}     |
+|   ![](imgs/Assembly2.jpg){style="height:500px"}     |
+|   ![](imgs/Assembly3.jpg){style="height:500px"}     |
+|   ![](imgs/Assembly4.jpg){style="height:500px"}     |
 
 </center>
 
@@ -113,6 +118,12 @@ I started just cutting the four first parts (T1, T2, A and B) and assembled laye
 ![](imgs/L1_3.jpeg){.center style="height:350px"}
 
 #### Final Result
+
+Below there are some pictures of the dome assembled. It was a great assignment and finally, I understood about the kerf and how it influences the joints.
+
+![](imgs/Dome1.jpeg){.center style="height:350px"} &nbsp;
+![](imgs/Dome2.jpeg){.center style="height:350px"} &nbsp;
+![](imgs/Dome3.jpeg){.center style="height:350px"}
 
 #### Downloadable Files
 
@@ -127,7 +138,10 @@ To test the vinyl cutter, I used the vector file of [Midoryia](https://rmeliana.
 
 The heat vinyl has a plastic protection that makes easier to transfer the print for clothing. When the sticker is printed, the plastic film has to be facing upwards. Therefore, the cut must be made by the side without protection.
 
-![](imgs/HTV.jpg){.center style="height:300px"}
+<center>
+![](imgs/HTV.jpeg){style="height:300px"}
+<figcaption><b>Plastic protection</b></figcaption>
+</center>
 
 Using the Inkscape, I let just the vectorized image in the screen and after mirrored it.
 
