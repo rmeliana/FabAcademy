@@ -29,11 +29,12 @@ To generate the gcode with its commands and parameters the software [FlatCAM](ht
 
 ![Interface FlatCAM](imgs/FlatCAM.png){.center style="height:450px"}
 
-For more details about how to prepare files and mill a PCB using the machine Roland MDX-40 see the Individual Assignment.
+!!! Important "For more details about how to prepare files and to mill a PCB using the machine Roland MDX-540 see the [Individual Assignment](https://rmeliana.github.io/FabAcademy/5Electronics%20Production/5Electronics%20Production/#individual-assignment)."
+
 
 #### Milling
 
-Using a tapered end-mill of Ø 0,1mm and depth cut of -0,11mm, we had the result below. We can note that was removed much more material than necessary due to the format of the mill.
+Using a tapered end-mill of Ø 0,1mm and depth cut of -0,14mm (the default depth of -0,11mm was not enough, so we added more 0,03mm to this parameter), we had the result below. We can note that was removed much more material than necessary due to the format of the mill.
 
 <center>
 ![Tapered mill](imgs/tapered mill.jpg){style="height:200px"}
@@ -45,12 +46,16 @@ Using a tapered end-mill of Ø 0,1mm and depth cut of -0,11mm, we had the result
 #### Files
 
 * [Eagle](5downloads/Traces_Eagle.7z) files;
-* [FlatCAM](5downloads/Track width.FlatPrj) files;
-* [Gcodes](5downloads/Gcode.7z) files.
+* [FlatCAM](5downloads/Trackes_FlatCAM.FlatPrj) files;
+* [Gcodes](5downloads/Trackes_Gcode.7z) files.
 
 ### Minimum isolation
 
 The minimum isolation hits on the same barrier as the trace width. If we use too much isolation the tapered end-mill starts milling away the other traces during isolation milling.
+
+* [Eagle](5downloads/Isolation_Eagle.7z) files;
+* [FlatCAM](5downloads/Isolation_FlatCAM.FlatPrj) files;
+* [Gcodes](5downloads/Isolation_Gcode.7z) files.
 
 ### Feeds & Speeds
 
