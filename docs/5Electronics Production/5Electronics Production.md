@@ -54,25 +54,60 @@ Using the equipment called stereoscope microscope Stemi 508 and the software Axi
 <figcaption><b>Stereoscope microscope Stemi 508</b></figcaption>
 </center>
 
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheets/galery.theme.css">
+    <link rel="stylesheet" href="stylesheets/galery.min.css">
+  </head>
+
+  <body>
+    <div class="gallery items-3">
+      <div id="item-1" class="control-operator"></div>
+      <div id="item-2" class="control-operator"></div>
+      <div id="item-3" class="control-operator"></div>
+      <div id="item-4" class="control-operator"></div>
+
+      <figure class="item">
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/microscope.jpeg" width="350" /></h1>
+      </figure>
+
+      <figure class="item">
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/zoom%20microscope.jpeg" width="350" /></h1>
+      </figure>
+
+      <figure class="item">
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/snapshot.jpeg" width="350" /></h1>
+      </figure>
+
+      <figure class="item">
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/dimension.jpeg" width="350" /></h1>
+      </figure>
 
 
+      <div class="controls">
+        <a href="#item-1" class="control-button">.</a>
+        <a href="#item-2" class="control-button">.</a>
+        <a href="#item-3" class="control-button">.</a>
+        <a href="#item-4" class="control-button">.</a>
+      </div>
+    </div>
+  </body>
+</html>
 
-
-
-Here is a table with the virtual widths of the traces (Eagle parameters) and the real ones (with a tapered end-mill).
+Here is a table with the virtual widths of the traces (Eagle parameters) and the real ones (milled by a tapered end-mill).
 
 <center>
 
 | Virtual | Real |
 |:-------:|:----:|
-| 1,0mm   |      |
-| 0,9mm   |      |
-| 0,8mm   |      |
-| 0,7mm   |      |
-| 0,6mm   |      |
-| 0,5mm   |      |
-| 0,4mm   |      |
-| 0,3mm   |      |
+| 1,0mm   |0,82mm|
+| 0,9mm   |0,72mm|
+| 0,8mm   |0,62mm|
+| 0,7mm   |0,52mm|
+| 0,6mm   |0,42mm|
+| 0,5mm   |0,32mm|
+| 0,4mm   |0,22mm|
+| 0,3mm   |0,12mm|
 
 </center>
 
