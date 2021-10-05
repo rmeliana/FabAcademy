@@ -56,12 +56,12 @@ Using the equipment called stereoscope microscope Stemi 508 and the software Axi
 
 <html>
   <head>
-    <link rel="stylesheet" href="stylesheets/galery.theme.css">
-    <link rel="stylesheet" href="stylesheets/galery.min.css">
+    <link rel="stylesheet" href="stylesheets/gallery.theme.css">
+    <link rel="stylesheet" href="stylesheets/gallery.min.css">
   </head>
 
   <body>
-    <div class="gallery items-3">
+    <div class="gallery items-4">
       <div id="item-1" class="control-operator"></div>
       <div id="item-2" class="control-operator"></div>
       <div id="item-3" class="control-operator"></div>
@@ -126,12 +126,6 @@ The minimum isolation hits on the same barrier as the trace width. If we get a c
 In the file below there are some traces near each other. We milled three PCBs with the same layout, but changing the depth cut.
 
 ![PCB isolation width](imgs/PCB_isolation.jpg){.center style="height:450px"}
-
-![](imgs/isolation1.jpg){.center style="height:450px"}
-![](imgs/isolation5.jpg){.center style="height:450px"}
-![](imgs/isolation10.jpg){.center style="height:450px"}
-![](imgs/isolation15.jpg){.center style="height:450px"}
-
 
 #### Files
 * [Eagle](5downloads/Isolation_Eagle.7z) files;
