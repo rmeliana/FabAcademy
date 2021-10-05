@@ -21,7 +21,7 @@ As it's difficult to find micro end-mill to do the engraving part of the boards 
 
 #### File to test
 
-Similar to the file [linetest](5downloads/linetest.png) given by Neil for the students of class 2021, we made a simple PCB using the software Autodesk Eagle. The goal here was to test the performance of Roland MDX-540 milling different trackes width (range between 0.001 and 1.0 mm).
+Similar to the file [linetest](5downloads/linetest.png) given by Neil for the students of class 2021, we made a simple PCB using the software Autodesk Eagle. The goal here was to test the performance of Roland MDX-540 milling different traces width (range between 0.001 and 1.0 mm).
 
 ![Eagle layout](imgs/Board_layout.png){.center style="height:450px"}
 
@@ -34,25 +34,71 @@ To generate the gcode with its commands and parameters the software [FlatCAM](ht
 
 #### Milling
 
-Using a tapered end-mill of Ø 0,1mm and depth cut of -0,14mm (the default depth of -0,11mm was not enough, so we added more 0,03mm to this parameter), we had the result below. We can note that was removed much more material than necessary due to the format of the mill.
+Using a tapered end-mill of Ø 0,1mm (and 20°) and depth cut of -0,14mm (the default depth of -0,11mm was not enough, so we added more 0,03mm to this parameter), we had the result below. We can note that was removed much more material than necessary due to the format of the mill.
 
 <center>
 ![Tapered mill](imgs/tapered mill.jpg){style="height:200px"}
 <figcaption><b>Tapered end mill</b></figcaption>
 </center>
 
-![PCB trackes width](imgs/PCB_trackes.jpg){style="height:200px"}
+<center>
+![PCB traces width](imgs/PCB_traces1.jpeg){style="height:250px"} &nbsp;
+![PCB traces width](imgs/PCB_traces2.jpeg){style="height:250px"}
+<figcaption><b>PCB milled</b></figcaption>
+</center>
+
+Using the equipment called stereoscope microscope Stemi 508 and the software AxioVision, we were able to measure the real width of the traces. Just taking a snapshot with super zoom and using the dimension command.
+
+<center>
+![PCB traces width](imgs/microscope.jpeg){style="height:350px"}
+<figcaption><b>Stereoscope microscope Stemi 508</b></figcaption>
+</center>
+
+
+
+
+
+
+Here is a table with the virtual widths of the traces (Eagle parameters) and the real ones (with a tapered end-mill).
+
+<center>
+
+| Virtual | Real |
+|:-------:|:----:|
+| 1,0mm   |      |
+| 0,9mm   |      |
+| 0,8mm   |      |
+| 0,7mm   |      |
+| 0,6mm   |      |
+| 0,5mm   |      |
+| 0,4mm   |      |
+| 0,3mm   |      |
+
+</center>
+
+Therefore, the minimum trace width that we were able to produce using the Roland MDX-540, depth cut of -0,14mm, is **0,6mm/23mils**.
 
 #### Files
 
 * [Eagle](5downloads/Traces_Eagle.7z) files;
-* [FlatCAM](5downloads/Trackes_FlatCAM.FlatPrj) files;
-* [Gcodes](5downloads/Trackes_Gcode.7z) files.
+* [FlatCAM](5downloads/Traces_FlatCAM.FlatPrj) files;
+* [Gcodes](5downloads/Traces_Gcode.7z) files.
 
 ### Minimum isolation
 
-The minimum isolation hits on the same barrier as the trace width. If we use too much isolation the tapered end-mill starts milling away the other traces during isolation milling.
+The minimum isolation hits on the same barrier as the trace width. If we get a cut depth deeper the tapered end-mill tool starts milling away the other traces during isolation milling.
 
+In the file below there are some traces near each other. We milled three PCBs with the same layout, but changing the depth cut.
+
+![PCB isolation width](imgs/PCB_isolation.jpg){.center style="height:450px"}
+
+![](imgs/isolation1.jpg){.center style="height:450px"}
+![](imgs/isolation5.jpg){.center style="height:450px"}
+![](imgs/isolation10.jpg){.center style="height:450px"}
+![](imgs/isolation15.jpg){.center style="height:450px"}
+
+
+#### Files
 * [Eagle](5downloads/Isolation_Eagle.7z) files;
 * [FlatCAM](5downloads/Isolation_FlatCAM.FlatPrj) files;
 * [Gcodes](5downloads/Isolation_Gcode.7z) files.
@@ -69,3 +115,11 @@ The minimum isolation hits on the same barrier as the trace width. If we use too
 ## Individual assignment
 
 * Make an in-circuit programmer by milling and stuffing the PCB, test it, then optionally try other PCB fabrication process.
+
+
+<style>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+</style>

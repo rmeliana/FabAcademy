@@ -1,27 +1,25 @@
 # 6. 3D Scanning and Printing
 
-# 7. Electronics Design
+## Group assignment
 
-# 8. Computer Controlled Machining
+* Test the design rules for your printer(s)
+* Document your work and explain what are the limits of your printer(s) (in a group or individually)
 
-# 9. Embedded Programming
+## 3D Printing
 
-# 10. Mechanical Design, Machine Design
+### Ultimaker Cura
 
-# 11. Input Devices
+### Slicer software
 
-# 12. Moulding and Casting
+### Test 1
 
-# 13. Output Devices
+### Test 2
 
-# 14. Embedded Networking and Communications
+### Calibration Cube
 
-# 15. Interface and Application Programming
+### Flow test cube
 
-# 16. Wildcard Week
+## Individual assignment:
 
-# 17. Applications and Implications
-
-# 18. Invention, Intellectual Property and Business Models
-
-# 19. Project Development
+* Design and 3D print an object (small, few cm3, limited by printer time) that could not be easily made subtractively
+* 3D scan an object, try to prepare it for printing (and optionally print it)
