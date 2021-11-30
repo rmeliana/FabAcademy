@@ -56,6 +56,8 @@ theme:
 # extras
 extra_css:
     - stylesheets/extra.css
+    - stylesheets/gallery.min.css 
+    - stylesheets/gallery.theme.css
 
 nav:
     - Home: index.md
@@ -69,6 +71,8 @@ nav:
         - '4. Computer Controlled Cutting': '4Computer Controlled Cutting/4Computer Controlled Cutting.md'
         - '5. Electronics Production': '5Electronics Production/5Electronics Production.md'
         - '6. Scanning and Printing': '6Scanning and Printing/6Scanning and Printing.md'
+        - '7. Electronics Design': '7Electronics Design/7Electronics Design.md'
+
 
 
 

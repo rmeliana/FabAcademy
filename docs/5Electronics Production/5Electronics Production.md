@@ -10,7 +10,7 @@
 
 ### Minimum trace width
 
-The minimum trace width that we were able to produce using both the Roland MDX-540 and Rolland MDX-40A was **0,6mm/23mils** due to two factors:
+The minimum trace width that we were able to produce using both the Roland MDX-540 and Rolland MDX-40A was **0,12mm/4,72mils** due to two factors:
 
  - Unevenness of phenolic based PCB's
  - Difficulty of finding micro end-mills at the Brazilian market
@@ -49,10 +49,12 @@ Using a tapered end-mill of Ø 0,1mm (and 20°) and depth cut of -0,14mm (the de
 
 Using the equipment called stereoscope microscope Stemi 508 and the software AxioVision, we were able to measure the real width of the traces. Just taking a snapshot with super zoom and using the dimension command.
 
-<center>
-![PCB traces width](imgs/microscope.jpeg){style="height:350px"}
-<figcaption><b>Stereoscope microscope Stemi 508</b></figcaption>
-</center>
+<style>
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+</style>
 
 <html>
   <head>
@@ -68,19 +70,31 @@ Using the equipment called stereoscope microscope Stemi 508 and the software Axi
       <div id="item-4" class="control-operator"></div>
 
       <figure class="item">
-        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/microscope.jpeg" width="350" /></h1>
+        <center>
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/microscope.jpeg?raw=true" width="300" /></h1>
+        <figcaption>Stereoscope microscope Stemi 508</figcaption>
+        </center>
       </figure>
 
       <figure class="item">
-        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/zoom%20microscope.jpeg" width="350" /></h1>
+        <center>
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/zoom%20microscope.jpeg?raw=true" width="300" /></h1>
+        <figcaption>Stereoscope zoom</figcaption>
+        </center>
       </figure>
 
       <figure class="item">
-        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/snapshot.jpeg" width="350" /></h1>
+        <center>
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/snapshot.jpeg?raw=true" width="300" /></h1>
+        <figcaption>Snapshot of the trace</figcaption>
+        </center>
       </figure>
 
       <figure class="item">
-        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/dimension.jpeg" width="350" /></h1>
+        <center>
+        <h1><img src="https://github.com/rmeliana/FabAcademy/blob/master/docs/5Electronics%20Production/imgs/dimension.jpeg?raw=true" width="500"/></h1>
+        <figcaption>Measurement</figcaption>
+        </center>
       </figure>
 
 
@@ -93,6 +107,7 @@ Using the equipment called stereoscope microscope Stemi 508 and the software Axi
     </div>
   </body>
 </html>
+
 
 Here is a table with the virtual widths of the traces (Eagle parameters) and the real ones (milled by a tapered end-mill).
 
@@ -111,7 +126,7 @@ Here is a table with the virtual widths of the traces (Eagle parameters) and the
 
 </center>
 
-Therefore, the minimum trace width that we were able to produce using the Roland MDX-540, depth cut of -0,14mm, is **0,6mm/23mils**.
+Therefore, the minimum trace width that we were able to produce using the Roland MDX-540, depth cut of -0,14mm, is **0,12mm/4,72mils**, when we use a virtual trace with 0,3mm.
 
 #### Files
 
@@ -134,6 +149,8 @@ In the file below there are some traces near each other. We milled three PCBs wi
 
 ### Feeds & Speeds
 
+Here is the parameters that we used to mill our boards:
+
 | Operation | Tool        | Cut Z(mm) | Multi-Depth(mm) | Travel Z(mm) | Feed Rate X-Y(mm/s) | Feed Rate Z(mm/s) | Spindle Speed(RPM) |
 |:----------|:-----------:|----------:|----------------:|-------------:|--------------------:|------------------:|-------------------:|
 | Drill     | 0.5mm-1.2mm |     -1.65 |            0.55 |           15 |                 450 |               650 |              12000 |
@@ -145,10 +162,18 @@ In the file below there are some traces near each other. We milled three PCBs wi
 
 * Make an in-circuit programmer by milling and stuffing the PCB, test it, then optionally try other PCB fabrication process.
 
+###Printed Circuit Board (PCB)
 
-<style>
-td, th {
-  border: 1px solid #dddddd;
-  text-align: center;
-}
-</style>
+For this task, I decided to reproduce a PCB that I've already made, but I didn't register the process. This board is part of a project called Giraffe Lamp. How you can see below, it's the ears of giraffe. And it'll be responsible to control the RGB leds (lamp's bulbs).
+
+![](imgs/Giraffe Lamp.png){.center style="height:350px"}
+
+###ATmega328P Microcontroller
+Here in the lab, we usually use the Arduino Uno board to test prototypes. Due it, the heart of my board will be the same microcontroller [ATmega328P](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf), but in a SMD package. One more chance to try my soldering skills!
+
+<center>
+![](imgs/atmega328p.jpg){.center style="height:280px"}    <figcaption><b>ATmega328P AU</b></figcaption>
+</center>
+
+###Bootloader and FTDI
+Microcontrollers aren't sold ready to receive a programming. For this, it's necessary to 
